@@ -1,4 +1,4 @@
-package leetcodes
+package easy
 
 /**
 
